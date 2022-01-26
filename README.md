@@ -7,3 +7,6 @@ Hobbyist coder, blogger, and mass transit enthusiast. By day, I drive a city bus
 - 💬 Ask me about: *Ace Attorney* and *Avatar: The Last Airbender* lore.
 - 📫 How to reach me: Email address on my profile.
 - 😄 Pronouns: He/Him.
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoRyan&hide_border=true"></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoRyan&layout=compact&exclude_repo=openrails-timetables&hide_border=true"></a> |
+| --- | --- |
