@@ -1,3 +1,5 @@
+### My bio
+
 Just a guy who hangs out in userspace, with interests in homelab operations and video game development. You'll find me playing with a high-level language like Python or TypeScript.
 
 Have a coding, consulting, or modding job? Drop me a mail!
