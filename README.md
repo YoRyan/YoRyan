@@ -14,7 +14,7 @@ Have a coding, consulting, or modding job? Drop me a mail!
 
 #### Other notable
 
-* [Otto](https://github.com/YoRyan/otto-bot) - A Discord bot for aviation nerds written in F#.
+* [Otto](https://github.com/YoRyan/OttoBot) - A Discord bot for aviation nerds written in F#.
 * [Don't kill my app!](https://github.com/urbandroid-team/dont-kill-my-app) - Research on the DuraSpeed system app killer for Nokia devices.
 
 #### Gaming
