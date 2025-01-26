@@ -9,6 +9,7 @@ Have a coding, consulting, or modding job? Drop me a mail!
 #### Homelab
 
 * [Mailrise](https://github.com/YoRyan/mailrise) - Software defined SMTP server that emits notifications powered by Apprise.
+* [Turbogmailify](https://github.com/YoRyan/turbogmailify) - Check external mailboxes way faster than Gmail ordinarily does.
 * [Apprise](https://github.com/caronc/apprise) - Migration to Python 3. Native asyncio support.
 * [DsDDNS](https://github.com/YoRyan/dsddns) - A dynamic DNS client with native support for IPv6.
 
