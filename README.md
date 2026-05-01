@@ -1,41 +1,21 @@
-### My bio
+#### `ls favorite_languages/`
 
-Just a guy who hangs out in userspace, with interests in homelab operations and video game development. You'll find me playing with a high-level language like Python or TypeScript.
+F# 🔷, Rust 🦀, TypeScript 🔵
 
-Have a coding, consulting, or modding job? Drop me a mail!
-
-### Projects I have authored or contributed to
-
-#### Homelab
+#### `ls homelab/`
 
 * [Mailrise](https://github.com/YoRyan/mailrise) - Software defined SMTP server that emits notifications powered by Apprise.
-* [Turbogmailify](https://github.com/YoRyan/turbogmailify) - Check external mailboxes way faster than Gmail ordinarily does.
-* [Apprise](https://github.com/caronc/apprise) - Migration to Python 3. Native asyncio support.
-* [DsDDNS](https://github.com/YoRyan/dsddns) - A dynamic DNS client with native support for IPv6.
+* [Turbogmailify](https://github.com/YoRyan/turbogmailify) - Self-hosted replacement for Gmail's sunsetted POP3 importer.
 
-#### Other notable
+#### `ls hardware/`
 
-* [Otto](https://github.com/YoRyan/OttoBot) - A Discord bot for aviation nerds written in F#.
-* [Don't kill my app!](https://github.com/urbandroid-team/dont-kill-my-app) - Research on the DuraSpeed system app killer for Nokia devices.
+* [Lenovo Legion Go](https://github.com/YoRyan/legion-go-umpc) - Configs and a Rust daemon to enable 3-in-1 gaming/laptop/tablet functionality.
 
-#### Gaming
+#### `ls gaming/`
 
-* [Wargame modding suite](https://github.com/enohka/moddingSuite) - Support for automated modding with Python scripts.
+* [Open NEC](https://github.com/YoRyan/open-nec) - Train Simulator Classic replacement scripts for Northeast Corridor content with a focus on realistic safety systems.
 * [Simutrans](https://github.com/YoRyan/simutrans-server) - Docker images for hosting multiplayer servers.
 
-#### Gaming / Train Simulator Classic
+#### `ls browser_extensions/`
 
-* [Open NEC](https://github.com/YoRyan/open-nec) - Replacement scripts for Northeast Corridor content with a focus on realistic safety systems.
-* [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Support for Lua 5.0, the dialect used by Train Simulator.
-* [railworks-tstl-template](https://github.com/YoRyan/railworks-tstl-template) - Write type safe scripts for Train Simulator with TypeScriptToLua.
-* [RailSimRemote](https://github.com/YoRyan/railsim-remote) - Use the RailDriver API over HTTP to read and manipulate control states.
-
-#### Gaming / Open Rails
-
-* [Open Rails](https://github.com/openrails/openrails) - Fixing bugs, adding features, and mainlining forks I'm interested in.
-* [autotable](https://github.com/YoRyan/autotable) - Build Open Rails [timetable sessions](https://github.com/YoRyan/openrails-timetables) with real world GTFS data.
-* [openrails.org](https://github.com/openrails/openrails.org) - Port of the Open Rails website from PHP to Jekyll.
-
-#### IRL
-
-* Getting you to work, courteously and efficiently. 🚌
+* [Cleantainer](https://github.com/YoRyan/Cleantainer) - Container-aware cookie cleaner for Firefox.
