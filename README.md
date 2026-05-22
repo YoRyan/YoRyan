@@ -14,7 +14,7 @@ F# 🔷, Rust 🦀, TypeScript 🔵
 #### `ls gaming/`
 
 * [Open NEC](https://github.com/YoRyan/open-nec) - Train Simulator Classic replacement scripts for Northeast Corridor content with a focus on realistic safety systems.
-* [Sid Meier's Railroads!](https://github.com/YoRyan/smr-map-collection) - Community map collection website built with Wax and Jekyll.
+* [railroadscli](https://github.com/YoRyan/railroads-cli) - A companion modding and map-installing tool for Sid Meier's Railroads! built for the community map [collection](https://github.com/YoRyan/smr-map-collection).
 * [Simutrans](https://github.com/YoRyan/simutrans-server) - Docker images for hosting multiplayer servers.
 
 #### `ls browser_extensions/`
