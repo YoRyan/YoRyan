@@ -4,8 +4,9 @@ F# 🔷, Rust 🦀, TypeScript 🔵
 
 #### `ls homelab/`
 
-* [Mailrise](https://github.com/YoRyan/mailrise) - Software defined SMTP server that emits notifications powered by Apprise.
+* [Mailrise](https://github.com/YoRyan/mailrise) - Software-defined SMTP server that emits notifications powered by Apprise.
 * [Turbogmailify](https://github.com/YoRyan/turbogmailify) - Self-hosted replacement for Gmail's sunsetted POP3 importer.
+* [ForTheRecord](https://github.com/YoRyan/ForTheRecord) - Imports notifications from Apprise, Shoutrrr, Ntfy, webhooks, etc. directly into your Gmail or IMAP inbox.
 
 #### `ls hardware/`
 
